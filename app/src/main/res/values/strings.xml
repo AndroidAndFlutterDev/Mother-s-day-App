@@ -1,0 +1,17 @@
+<resources>
+    <!--These are the base strings-->
+    <string name="app_name">TODO App</string>
+    <string name="title_menu">Your Apps</string>
+
+    <!--These are the TODOApp strings-->
+    <string name="todo_welcome">bienvenida, mamá!</string>
+    <string name="todo_categories">Categorias</string>
+    <string name="todo_tasks">Tareas</string>
+    <string name="todo_dialog_add_task">Añade una tarea</string>
+    <string name="todo_no_tasks">No tenes ninguna tarea! Añade una</string>
+
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_business">Profesional</string>
+    <string name="todo_dialog_category_other">Otro</string>
+    <string name="todo_dialog_create_task_button">Crear Tarea</string>
+</resources>
